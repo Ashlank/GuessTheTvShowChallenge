@@ -10,6 +10,7 @@ Juego de adivinar el nombre del Tv Show, teniendo como pista inicial algunas let
 
 ### Características
 
+- Data obtenida del sitio web [TMDB API](https://developer.themoviedb.org/docs)
 - El juego posee 3 vidas, se pierde 1 vida al ingresar un intento incorrecto, posee indicador visual ❤️
 - Sistema de puntos, por cada intento correcto ganas 1 punto, el puntaje se visualiza en pantalla
 - Dificultad vinculada a la cantidad de caracteres que posee el nombre del Tv Show, a mayor longitud mas letras faltantes
